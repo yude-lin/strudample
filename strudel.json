@@ -9,5 +9,42 @@
     "marimba/overtonemarimba6.wav",
     "marimba/overtonemarimba7.wav",
     "marimba/overtonemarimba8.wav"
+  ],
+  "djembe": [
+    "djembe/DjembeDe01.wav",
+    "djembe/DjembeDe02.wav",
+    "djembe/DjembeGun01.wav",
+    "djembe/DjembeNa.wav",
+    "djembe/DjembeRoll.wav",
+    "djembe/DjembeSlapGun01.wav",
+    "djembe/DjembeSlapGun02.wav",
+    "djembe/DjembeSlapGun03.wav",
+    "djembe/DjembeSlapGun04.wav",
+    "djembe/DjembeSlapGun05.wav",
+    "djembe/DjembeSlapGun06.wav",
+    "djembe/DjembeSnap01.wav",
+    "djembe/DjembeSnap02.wav",
+    "djembe/DjembeSnapPop.wav",
+    "djembe/DjembeSuperGun.wav",
+    "djembe/DjembeTe.wav",
+    "djembe/DjembeTin.wav"
+  ],
+  "ghatam": [
+    "ghatam/GhatamClink01.wav",
+    "ghatam/GhatamClink02.wav",
+    "ghatam/GhatamOpen03.wav",
+    "ghatam/GhatamTek01.wav",
+    "ghatam/GhatamTek02.wav",
+    "ghatam/GhatamTek03.wav",
+    "ghatam/GhatamTek04.wav"
+  ],
+  "whistle": [
+    "whistle/Whistle2-Note01.wav",
+    "whistle/Whistle2-Note02.wav",
+    "whistle/Whistle2-noteSus.wav",
+    "whistle/Whistle2-NoteTr01.wav",
+    "whistle/Whistle2-NoteTr02.wav",
+    "whistle/WhistleCricket.wav",
+    "whistle/WhistleHi.wav"
   ]
 }
