@@ -1,13 +1,13 @@
 {
   "_base": "https://raw.githubusercontent.com/yude-lin/strudample/main/",
   "marimba": [
-    "marimba/overtone%20marimba%201.wav",
-    "marimba/overtone%20marimba%202.wav",
-    "marimba/overtone%20marimba%203.wav",
-    "marimba/overtone%20marimba%204.wav",
-    "marimba/overtone%20marimba%205.wav",
-    "marimba/overtone%20marimba%206.wav",
-    "marimba/overtone%20marimba%207.wav",
-    "marimba/overtone%20marimba%208.wav"
+    "marimba/overtone marimba 1.wav",
+    "marimba/overtone marimba 2.wav",
+    "marimba/overtone marimba 3.wav",
+    "marimba/overtone marimba 4.wav",
+    "marimba/overtone marimba 5.wav",
+    "marimba/overtone marimba 6.wav",
+    "marimba/overtone marimba 7.wav",
+    "marimba/overtone marimba 8.wav"
   ]
 }
